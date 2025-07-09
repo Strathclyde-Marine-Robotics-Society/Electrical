@@ -1,0 +1,27 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 50613fe1-5eff-4b49-a5c6-f0091b238168)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "RX_NVIDIA" (shape input) (at 29.21 33.02 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 181e93f1-e0da-4301-9e61-ad4f83af144a)
+  )
+  (hierarchical_label "ELEC_PWR" (shape input) (at 29.21 29.21 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 1f3da8e0-51e4-4a42-aaf1-8de2a2ee42fe)
+  )
+  (hierarchical_label "Elec_GND" (shape input) (at 29.21 40.64 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 44bbc39f-f008-4b3e-b0f6-719ca4941257)
+  )
+  (hierarchical_label "TX_NVIDIA" (shape input) (at 29.21 36.83 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 9c48bc8b-6459-449e-812f-4ce28a5430ef)
+  )
+)
