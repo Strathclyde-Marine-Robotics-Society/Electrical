@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 43611fd8-b9e5-45a5-b117-5558144c6e09)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "Switch_PWR" (shape input) (at 120.65 64.77 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 04e63ad0-7afb-4da0-a139-23559fbe3f2f)
+  )
+  (hierarchical_label "Switch_GND" (shape input) (at 120.65 68.58 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d18af024-1a26-48db-b45b-9b2af865801e)
+  )
+)

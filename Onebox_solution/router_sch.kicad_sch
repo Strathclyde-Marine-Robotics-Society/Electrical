@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c3919e2e-9c5a-4345-8685-6eaea925ef53)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "Collie_PWR" (shape input) (at 74.93 58.42 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 47475a86-a5c0-4e39-80f6-c7946fc45dcf)
+  )
+  (hierarchical_label "Collie_GND" (shape input) (at 74.93 62.23 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid e2ee42bb-b75f-4bd2-891a-7969c3792240)
+  )
+)

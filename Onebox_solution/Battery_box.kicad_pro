@@ -1,29 +1,6 @@
 {
   "board": {
     "3dviewports": [],
-    "design_settings": {
-      "defaults": {
-        "board_outline_line_width": 0.1,
-        "copper_line_width": 0.2,
-        "copper_text_size_h": 1.5,
-        "copper_text_size_v": 1.5,
-        "copper_text_thickness": 0.3,
-        "other_line_width": 0.15,
-        "silk_line_width": 0.15,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.15
-      },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
-      "rules": {
-        "min_copper_edge_clearance": 0.0,
-        "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0
-      },
-      "track_widths": [],
-      "via_dimensions": []
-    },
     "layer_presets": [],
     "viewports": []
   },
@@ -247,7 +224,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Onebox_solution.kicad_pro",
+    "filename": "Battery_box.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -264,9 +241,9 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
-        "via_diameter": 0.8,
-        "via_drill": 0.4,
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
         "wire_width": 6
       }
     ],
@@ -313,7 +290,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "../../",
+    "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -324,52 +301,8 @@
   },
   "sheets": [
     [
-      "dfd0d5c6-c6a8-4a95-90c8-68cf6f5e01e7",
+      "fdd96b12-366f-4571-9d34-430dcbe4aa0d",
       ""
-    ],
-    [
-      "ef4491bb-5f7d-45f1-9594-24fb39ee1b41",
-      "Forward Compartment PORT"
-    ],
-    [
-      "06d3a6cc-d3d1-4b75-81e1-9a7a3ffba338",
-      "ESC1"
-    ],
-    [
-      "97a27f21-a73d-4411-a3b1-e047c9660ff8",
-      "ESC2"
-    ],
-    [
-      "2b492a14-a188-4ce7-af30-4677c968275f",
-      "MEGA R3"
-    ],
-    [
-      "7699ed80-6da9-4924-838f-e6fea54ffcee",
-      "Electronics"
-    ],
-    [
-      "7a607196-bf1f-4d5e-b9a6-b7d839125ddb",
-      "battery box"
-    ],
-    [
-      "dd227466-16c4-477c-adc9-3dc0e823f8fb",
-      "LIDAR"
-    ],
-    [
-      "0a12bf01-78b3-44ef-b980-93225ef43cf8",
-      "Collie Router"
-    ],
-    [
-      "a4471f48-7c26-4d2d-ae2d-48da82edfe6f",
-      "Switch"
-    ],
-    [
-      "e3766da5-faf6-445b-8b2d-2da3395daa8d",
-      "Emergency stop"
-    ],
-    [
-      "0f5c570d-51d0-4d2d-9774-f439b768bba0",
-      "Shunt"
     ]
   ],
   "text_variables": {}
