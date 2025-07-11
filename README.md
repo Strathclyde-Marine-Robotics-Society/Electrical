@@ -1,4 +1,4 @@
-# 🛥️ Robotic Vessel Documentation
+# 🛥️ Strathvoyger 3 Vessl Documentation
 
 Welcome to the documentation for the **Strathvoyager 3 Robotic Vessel** - Electrical, Low level and battery
 
